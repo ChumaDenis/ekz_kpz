@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="637ca394-6aac-40ba-86c6-1d5233fd8eea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/Landing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Fonts.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/fonts/SukhumvitSet-Text.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/fonts/SukhumvitSet-Text.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/andrea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/circle1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/circle2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/explore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/iphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/maria.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/img/polina.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/phone/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/phone/img2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Landing/Новий Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Components/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Components/Header.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Components/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/About/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/About/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/About/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/About/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/About/pages/Color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/About/pages/Fractal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Affine/Affine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Affine/Affine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Affine/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Affine/input.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Affine/input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Color/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Color/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Color/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Fractal/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Fractal/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Fractal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Fractal/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/img/colors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/img/fractal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/img/math.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/Pages/Home/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fract/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/components/Images.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/components/comon_components/img.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/components/comon_components/img.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/components/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/components/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/add.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/edite.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/homeAdmin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/homeUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/logIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/logIn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/pages/signIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krpvi/src/router/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab01/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab01/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab04/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/src/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram/src/ui/boot/router/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram/src/ui/pages/home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram/src/ui/pages/profile/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkstagram1/src/style/header.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HpH2ogLttS5FUu3E3orEIWqLET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="637ca394-6aac-40ba-86c6-1d5233fd8eea" name="Changes" comment="" />
+      <created>1668974900649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668974900649</updated>
+      <workItem from="1668974901939" duration="4095000" />
+      <workItem from="1668982340756" duration="3237000" />
+      <workItem from="1669156383004" duration="3683000" />
+      <workItem from="1669233971195" duration="953000" />
+      <workItem from="1669277902380" duration="2590000" />
+      <workItem from="1670590229100" duration="7589000" />
+      <workItem from="1670601805515" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
